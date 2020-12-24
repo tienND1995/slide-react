@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/slide-react/static/css/main.0aea3357.chunk.css",
-    "main.js": "/slide-react/static/js/main.275f03fd.chunk.js",
-    "main.js.map": "/slide-react/static/js/main.275f03fd.chunk.js.map",
+    "main.css": "/slide-react/static/css/main.50dfe2b8.chunk.css",
+    "main.js": "/slide-react/static/js/main.ee2e0da0.chunk.js",
+    "main.js.map": "/slide-react/static/js/main.ee2e0da0.chunk.js.map",
     "runtime-main.js": "/slide-react/static/js/runtime-main.a11a5f29.js",
     "runtime-main.js.map": "/slide-react/static/js/runtime-main.a11a5f29.js.map",
     "static/js/2.4093864c.chunk.js": "/slide-react/static/js/2.4093864c.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.6b2806b4.chunk.js": "/slide-react/static/js/3.6b2806b4.chunk.js",
     "static/js/3.6b2806b4.chunk.js.map": "/slide-react/static/js/3.6b2806b4.chunk.js.map",
     "index.html": "/slide-react/index.html",
-    "static/css/main.0aea3357.chunk.css.map": "/slide-react/static/css/main.0aea3357.chunk.css.map",
+    "static/css/main.50dfe2b8.chunk.css.map": "/slide-react/static/css/main.50dfe2b8.chunk.css.map",
     "static/js/2.4093864c.chunk.js.LICENSE.txt": "/slide-react/static/js/2.4093864c.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/slide-react/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.a11a5f29.js",
     "static/js/2.4093864c.chunk.js",
-    "static/css/main.0aea3357.chunk.css",
-    "static/js/main.275f03fd.chunk.js"
+    "static/css/main.50dfe2b8.chunk.css",
+    "static/js/main.ee2e0da0.chunk.js"
   ]
 }
